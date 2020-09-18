@@ -7,4 +7,3 @@ Main idea is to solve the filling problem of a pool like which pipes the water w
 Max flow and min cut algorithms were used to solve problem. 
 
 IntelliJ, Netbeans and Screenbuilder have been used to write the codes.
-
